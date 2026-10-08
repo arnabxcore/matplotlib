@@ -19,7 +19,9 @@ The chart represents programming language usage:
 Install Matplotlib using pip:
 ```bash
 pip install matplotlib
-
+```
+## ▶️ Run
+python pie_chart.py
 
 
 
