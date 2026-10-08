@@ -25,5 +25,14 @@ pip install matplotlib
 python pie_chart.py
 ```
 
+## 👨‍💻 Author
+
+**Arnab Paul**
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+
 
 
