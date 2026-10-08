@@ -21,7 +21,9 @@ Install Matplotlib using pip:
 pip install matplotlib
 ```
 ## ▶️ Run
+```bash
 python pie_chart.py
+```
 
 
 
